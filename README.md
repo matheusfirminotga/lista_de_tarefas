@@ -8,6 +8,7 @@
 
 <ul>
   <a href="https://pub.dev/packages/provider">provider</a>
+  <br>
   <a href="https://pub.dev/packages/flutter_native_splash">flutter_native_splash</a>
 </ul>  
 
