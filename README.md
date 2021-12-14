@@ -7,7 +7,7 @@
 <h3>Prints</h3>
 
 <p align="center">
-  <img alt="print1" src="https://imgur.com/bwUrPAO">
+  <img alt="print1" src="https://i.imgur.com/wypwC2b.png">
 </p>
 
 <p align="center">
