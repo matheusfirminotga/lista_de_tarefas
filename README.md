@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <img alt="print1" src="https://imgur.com/zBqQCsD">
+  <img alt="print2" src="https://i.imgur.com/h7rdH9l.png">
 </p>
 
 <p align="center">
-  <img alt="print1" src="https://imgur.com/eNbo5hi">
+  <img alt="print3" src="https://i.imgur.com/EVyhvQy.png">
 </p>
 
 <p align="center">
-  <img alt="print1" src="https://imgur.com/2GwSEnR">
+  <img alt="print4" src="https://i.imgur.com/Sp5vLl0.png">
 </p>
